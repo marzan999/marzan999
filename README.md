@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marzan999" alt="marzan999" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@zaanmar" target="blank"><img src="https://img.shields.io/twitter/follow/@zaanmar?logo=twitter&style=for-the-badge" alt="@zaanmar" /></a> </p>
-
 - 🔭 I’m currently working on **React Native Project**
 
 - 🌱 I’m currently learning **React Native.**
