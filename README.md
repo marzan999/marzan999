@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marzan999&theme=radical" alt="marzan999" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Project**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **Online Sources.**
 
 - 👨‍💻 All of my projects are available at [www.github.com/marzan999](www.github.com/marzan999)
-
-- 💬 Ask me about **C, C++, JavaScript.**
 
 - 📫 How to reach me **marzanislam999@gmail.com**
 
